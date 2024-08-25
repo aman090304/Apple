@@ -62,6 +62,11 @@ To get started with the project, follow these steps:
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code as per the terms of the license.
 
+## Contact
+Aman Gupta
+[Email](amanrgupta.456@gmail.com)
+[GitHub](https://github.com/aman090304)
+[LinkedIn](https://www.linkedin.com/in/aman-gupta0903/)
 
 
 
