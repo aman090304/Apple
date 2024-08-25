@@ -64,8 +64,11 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Contact
 Aman Gupta
-[Email](amanrgupta.456@gmail.com)
+
+amanrgupta.456@gmail.com
+
 [GitHub](https://github.com/aman090304)
+
 [LinkedIn](https://www.linkedin.com/in/aman-gupta0903/)
 
 
